@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Platform-GFG%20%7C%20LeetCode%20%7C%20Coding%20Practice-orange?style=for-the-badge" />
 
-A collection of C++ programs, DSA solutions, and coding practice problems designed for learning, problem-solving, and interview preparation.
+A collection of C++ programs, DSA solutions, and coding practice problems designed for learning, problem-solving, and interview preparation and placements.
 
 </div>
 
